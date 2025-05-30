@@ -607,7 +607,7 @@ nav {
 }
 
 .scroll-down {
-  position: absolute;
+  position: sticky;
   bottom: var(--space-6);
   left: 50%;
   transform: translateX(-50%);
